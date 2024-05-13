@@ -1,0 +1,6 @@
+@az2003_webapi_HostAddress = http://localhost:5288
+
+GET {{az2003_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
